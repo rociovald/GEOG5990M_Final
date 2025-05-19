@@ -50,5 +50,6 @@ The spatial visualisation displays accident concentration using H3 hexagons and 
 
 ### References
 National Traffic Safety Commission [CONASET]. 2025. Observatorio de Seguridad Vial. [Online]. [Accessed 18 May 2025]. Available from: https://www.conaset.cl/programa/observatorio-datos-estadistica/#:~:text=Observatorio%20de%20Seguridad%20Vial,-El%20Observatorio%20de&text=Durante%20el%20a%C3%B1o%202024%20se,fallecidos%20informados%20el%20a%C3%B1o%202023
+
 National Traffic Safety Commission [CONASET]. 2022. Diagnóstico de siniestros de tránsito de la región de Antofagasta. [Online]. [Accessed 18 May 2025]. Available from: https://www.conaset.cl/wp-content/uploads/2023/06/Antofagasta-2022.pdf
 

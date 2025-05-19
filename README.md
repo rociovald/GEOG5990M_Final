@@ -46,7 +46,7 @@ The non-spatial visualisations include four horizontal bar charts showing the to
 
 The spatial visualisation displays accident concentration using H3 hexagons and includes the precise locations of fatal accidents.
 
-![Image](https://github.com/user-attachments/assets/69e35ad9-877a-486b-bc37-3fa64c6e5b25)
+![Image](https://github.com/user-attachments/assets/a5a1085f-713c-47d2-833a-54daec100402)
 
 ### References
 National Traffic Safety Commission [CONASET]. 2025. Observatorio de Seguridad Vial. [Online]. [Accessed 18 May 2025]. Available from: https://www.conaset.cl/programa/observatorio-datos-estadistica/#:~:text=Observatorio%20de%20Seguridad%20Vial,-El%20Observatorio%20de&text=Durante%20el%20a%C3%B1o%202024%20se,fallecidos%20informados%20el%20a%C3%B1o%202023

@@ -42,8 +42,8 @@ To assess spatial autocorrelation, the Global Moran’s Index was calculated. To
 
 The non-spatial visualizations include four horizontal bar charts showing the total number of accidents in Antofagasta and Calama, categorized by accident type and associated fatalities.
 
-!Non-Spatial Visualization
+![Image](https://github.com/user-attachments/assets/af5f5c74-fce6-4fbb-9fdd-b07723a2ab93)
 
 The spatial visualization displays accident concentration using H3 hexagons and includes the precise locations of fatal accidents.
 
-!Spatial Visualization
+![Image](https://github.com/user-attachments/assets/ae152803-a1d6-4a83-846a-f1bdb9a7cac9)

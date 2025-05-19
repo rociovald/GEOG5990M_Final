@@ -46,4 +46,4 @@ The non-spatial visualisations include four horizontal bar charts showing the to
 
 The spatial visualisation displays accident concentration using H3 hexagons and includes the precise locations of fatal accidents.
 
-![Image](https://github.com/user-attachments/assets/ae152803-a1d6-4a83-846a-f1bdb9a7cac9)
+![Image](https://github.com/user-attachments/assets/69e35ad9-877a-486b-bc37-3fa64c6e5b25)

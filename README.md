@@ -38,12 +38,12 @@ An initial attempt was made to apply K-Means clustering using the elbow method t
 
 To assess spatial autocorrelation, the Global Moran’s Index was calculated. To identify the specific locations of spatial clusters, the Local Moran’s Index (LISA) was applied.
 
-### Final Visualizations
+### Final Visualisations
 
-The non-spatial visualizations include four horizontal bar charts showing the total number of accidents in Antofagasta and Calama, categorized by accident type and associated fatalities.
+The non-spatial visualisations include four horizontal bar charts showing the total number of accidents in Antofagasta and Calama, categorized by accident type and associated fatalities.
 
 ![Image](https://github.com/user-attachments/assets/af5f5c74-fce6-4fbb-9fdd-b07723a2ab93)
 
-The spatial visualization displays accident concentration using H3 hexagons and includes the precise locations of fatal accidents.
+The spatial visualisation displays accident concentration using H3 hexagons and includes the precise locations of fatal accidents.
 
 ![Image](https://github.com/user-attachments/assets/ae152803-a1d6-4a83-846a-f1bdb9a7cac9)
